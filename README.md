@@ -7,5 +7,5 @@ This project is a work in progress
 Column 1 : Ground truth, Column 2 : Blurred images, Column 3 : Predictions
 ![Caption](/images/results.png)
 # To Do
-- Explore idfferent loss functions
+- Explore different loss functions
 - Test on real blurry photo
